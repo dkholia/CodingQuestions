@@ -1,7 +1,5 @@
 /**
  * Print the longest path from root to leaf in a Binary tree (Basically the nodes that lie on the height path). 
- * 
- * Company : Amazon 
  *
  * @author : Deep Kholia
  */
